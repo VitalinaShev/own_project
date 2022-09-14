@@ -18,9 +18,10 @@ header {
    
 }
 div {
-  padding-left: 2em;
+  padding-left: 3em;
 padding-right: 2em;
-  padding-top: 5em;
+  padding-top: 12em;
+column-count: 2
 }
 
 img {
